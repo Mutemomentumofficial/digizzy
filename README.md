@@ -53,10 +53,12 @@ With **AI automation, e-commerce solutions, and creative tools**, we make runnin
 📧 **Email:** [contact@digizzy.com](mutemomentum.media@gmail.com)  
 
 ---
+## ⚖️ Legal Notice
+All content in this repository is protected under DigiZZY's Terms & Conditions and Privacy Policy.  
+You may not use, copy, or distribute any part of this work without prior written permission.
 
-## 📜 License
-This repository and its content are licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
+📄 [Read Our Terms & Conditions](https://digizzy.odoo.com/terms-and-conditions)  
+📄 [Read Our Privacy Policy](https://digizzy.odoo.com/privacy-policy)
 ---
 
 ### 💖 Support DigiZZY
